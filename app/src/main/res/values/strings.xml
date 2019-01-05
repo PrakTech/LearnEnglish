@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">LearnEnglish</string>
+    <string name="text">Mount Everest</string>
+    <string name="text_uk">UK</string>
+    <string name="text_us">US</string>
+    <string name="image_area">This is area for image</string>
+</resources>
+
